@@ -1,0 +1,20 @@
+name: Update Quote README
+
+on:
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+  schedule:
+    - cron: "0 2 * * *"       # refreshes the quote daily at 2 AM UTC
+
+jobs:
+  update-readme:
+    name: Update Quote README
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Insert a random quote into README.md
+        uses: siddharth2016/quote-readme@main
+        with:
+          OPTION: "quote"   # use "funfact" for facts instead, or "both" to alternate
