@@ -116,20 +116,19 @@ A parallel multi-agent research pipeline built on **LangGraph**:
 </details>
 
 <details>
-<summary><b>🧮 Classical ML & Neural Nets — From Scratch</b> — Coursework projects</summary>
+<summary><b>🩻 Radiology Report Generation — Vision-Language Model</b> — Deep Learning</summary>
 <br/>
 
-- **Feedforward Neural Network on MNIST**: forward/backward propagation and gradient descent implemented by hand in NumPy, no high-level frameworks — ~96% test accuracy
-- **Classical ML Algorithms**: linear regression, logistic regression, and decision trees implemented from first principles, without scikit-learn's built-in estimators
-- **Search & CSP Solver**: BFS, DFS, and A* search formulations, plus constraint satisfaction problem modeling, for the AI System Design course
+- **Chest X-Ray Report Generation**: encoder-decoder model that takes frontal + lateral X-ray views and generates a free-text Findings section — CNN extracts spatial features, Transformer decoder attends to them autoregressively
+- **Built from scratch in PyTorch**: custom `CNNEncoder` (ResNet-50 backbone), `ReportDecoder` (4-layer Transformer with cross-attention), word-level vocabulary, teacher-forcing training loop, and greedy decoding with repetition penalty
+- **Trained on IU X-Ray dataset** (~3,300 studies), evaluated with BLEU-1, BLEU-4, and ROUGE-L
+- **Interactive Streamlit demo**: upload any chest X-ray, get a generated findings report in the browser
 
-`Python` `NumPy`
+`Python` `PyTorch` `Streamlit` `Transformers` `ResNet-50` `NumPy`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulSamad9011/ml-from-scratch)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulSamad9011/Radiology_Report_generation)
 
 </details>
-
-> 💡 Replace the repo links above with your actual repository URLs once you push these projects (or remove the button if a project isn't public yet).
 
 <br/>
 
