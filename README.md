@@ -95,7 +95,7 @@ Multi-stage MRI/CT diagnostic pipeline built around a fan-out → fusion → syn
 
 `Python` `PyTorch` `MONAI` `OpenCV` `FastAPI` `Streamlit` `Docker`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulSamad9011/brain-tumor-diagnosis-assistant)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulSamad9011/Brain-tumor-project)
 
 </details>
 
