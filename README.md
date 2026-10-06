@@ -164,7 +164,7 @@ A parallel multi-agent research pipeline built on **LangGraph**:
 ## 💭 Dev Wisdom
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure.  Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.”— Nathaniel S. Borenstein   ❞</i>
+<i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 > This block is auto-filled with a random quote by the `quote-readme.yml` workflow below — see setup instructions.
