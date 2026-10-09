@@ -164,7 +164,7 @@ A parallel multi-agent research pipeline built on **LangGraph**:
 ## 💭 Dev Wisdom
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell❞</i>
+<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 > This block is auto-filled with a random quote by the `quote-readme.yml` workflow below — see setup instructions.
