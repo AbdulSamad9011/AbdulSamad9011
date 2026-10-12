@@ -164,7 +164,7 @@ A parallel multi-agent research pipeline built on **LangGraph**:
 ## 💭 Dev Wisdom
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   ❞</i>
+<i>❝“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 > This block is auto-filled with a random quote by the `quote-readme.yml` workflow below — see setup instructions.
