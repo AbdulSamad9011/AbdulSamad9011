@@ -164,7 +164,7 @@ A parallel multi-agent research pipeline built on **LangGraph**:
 ## 💭 Dev Wisdom
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“On two occasions I have been asked, ‘If you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”— Charles Babbage   ❞</i>
+<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 > This block is auto-filled with a random quote by the `quote-readme.yml` workflow below — see setup instructions.
