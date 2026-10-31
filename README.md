@@ -164,7 +164,7 @@ A parallel multi-agent research pipeline built on **LangGraph**:
 ## 💭 Dev Wisdom
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The computer was born to solve problems that did not exist before.”— Bill Gates    ❞</i>
+<i>❝“Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.”— Donald E. Knuth   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 > This block is auto-filled with a random quote by the `quote-readme.yml` workflow below — see setup instructions.
